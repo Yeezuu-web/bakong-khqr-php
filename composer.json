@@ -1,5 +1,5 @@
 {
-  "name": "piseth/bakong-khqr-php",
+  "name": "pisethchhun/bakong-khqr-php",
   "description": "PHP package for generating and parsing Bakong KHQR (Cambodian QR payment) codes",
   "type": "library",
   "license": "MIT",

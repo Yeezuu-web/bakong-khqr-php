@@ -2,6 +2,12 @@
 
 All notable changes to `bakong-khqr-php` will be documented in this file.
 
+## 1.0.3 - 2025-06-05
+
+### Changed
+
+- Updated package name from `piseth/bakong-khqr-php` to `pisethchhun/bakong-khqr-php` for Packagist publishing
+
 ## 1.0.2 - 2025-06-05
 
 ### Fixed
