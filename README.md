@@ -2,8 +2,8 @@
 
 A comprehensive PHP package for generating, parsing, and validating Bakong KHQR (Cambodian QR payment) codes. This package provides tools for developers to easily integrate with Cambodia's Bakong payment system.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/piseth/bakong-khqr-php.svg?style=flat-square)](https://packagist.org/packages/piseth/bakong-khqr-php)
-[![Total Downloads](https://img.shields.io/packagist/dt/piseth/bakong-khqr-php.svg?style=flat-square)](https://packagist.org/packages/piseth/bakong-khqr-php)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/piseth/bakong-khqr-php.svg?style=flat-square)](https://packagist.org/packages/pisethchhun/bakong-khqr-php)
+[![Total Downloads](https://img.shields.io/packagist/dt/piseth/bakong-khqr-php.svg?style=flat-square)](https://packagist.org/packages/pisethchhun/bakong-khqr-php)
 
 ## Features
 
