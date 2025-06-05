@@ -13,7 +13,7 @@ abstract class BaseTestCase extends TestCase
     protected function setUp(): void
     {
         parent::setUp();
-        $this->testToken = $_ENV['BAKONG_TEST_TOKEN'] ?? 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiODkyMDVhZTI0NmVlNDA3NiJ9LCJpYXQiOjE3NDkwNTc1NDYsImV4cCI6MTc1NjgzMzU0Nn0.PbHHfBuogbXBSqkMer2T4vEd3tgU6EqbHNOeWsiiVlQ';
+        $this->testToken = $_ENV['BAKONG_TEST_TOKEN'];
     }
 
     /**
