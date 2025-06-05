@@ -2,6 +2,12 @@
 
 All notable changes to `bakong-khqr-php` will be documented in this file.
 
+## 1.0.4 - 2025-06-05
+
+### Documentation
+
+- Updated package name in installation instructions to match Packagist package name
+
 ## 1.0.3 - 2025-06-05
 
 ### Changed
