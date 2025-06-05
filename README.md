@@ -24,7 +24,7 @@ A comprehensive PHP package for generating, parsing, and validating Bakong KHQR 
 You can install the package via Composer:
 
 ```bash
-composer require piseth/bakong-khqr-php
+composer require pisethchhun/bakong-khqr-php
 ```
 
 ## Usage
