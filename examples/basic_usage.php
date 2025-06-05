@@ -13,8 +13,8 @@ use Piseth\BakongKhqr\Models\SourceInfo;
  * Example usage of the Bakong KHQR PHP package
  */
 
-// Your Bakong API token
-$token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiODkyMDVhZTI0NmVlNDA3NiJ9LCJpYXQiOjE3NDkwNTc1NDYsImV4cCI6MTc1NjgzMzU0Nn0.PbHHfBuogbXBSqkMer2T4vEd3tgU6EqbHNOeWsiiVlQ';
+// Your Bakong API token (replace with your actual token)
+$token = 'YOUR_BAKONG_API_TOKEN_HERE';
 
 echo "=== Bakong KHQR PHP Example ===\n\n";
 
