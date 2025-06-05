@@ -2,6 +2,13 @@
 
 All notable changes to `bakong-khqr-php` will be documented in this file.
 
+## 1.0.2 - 2025-06-05
+
+### Fixed
+
+- Updated .gitignore to properly exclude vendor directory
+- Removed vendor files from git tracking
+
 ## 1.0.1 - 2025-06-05
 
 ### Security
